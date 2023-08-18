@@ -1,2 +1,2 @@
-# tangerine
+# music-app
 Practice repo
